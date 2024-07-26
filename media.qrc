@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="crypto">
+    <file>media/crypto/__bnb__.png</file>
+    <file>media/crypto/__btc__.png</file>
+    <file>media/crypto/__dash__.png</file>
+    <file>media/crypto/__eth__.png</file>
+    <file>media/crypto/__ltc__.png</file>
+    <file>media/crypto/__trx__.png</file>
+  </qresource>
+  <qresource prefix="media">
+    <file>media/cross.png</file>
+    <file>media/exclamation.png</file>
+    <file>media/link_break.png</file>
+    <file>media/stop.png</file>
+    <file>media/tick.png</file>
+    <file>media/update.png</file>
+    <file>media/logo.png</file>
+    <file>media/error.png</file>
+    <file>media/zoom_refresh.png</file>
+  </qresource>
+</RCC>
